@@ -1,14 +1,13 @@
 import React from 'react'
+import './login.css'
 
 const Login = () => {
   return (
     <div className='login'>
-    <br /><br /><br />
-    <h1>hello world</h1>
-    <h1>email</h1>
-    <input type='text' class='login-text' />
+    <h1>Email</h1>
+    <input type='email' class='login-mail' name='email' />
     <h1>Password</h1>
-    <input type="text" name="" id="" />
+    <input type="password" name="password"  />
     <button>Sign In</button>
     </div>
   )

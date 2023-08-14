@@ -1,0 +1,14 @@
+.login{
+  background-color: rgb(38, 38, 38);
+  width: 16rem;
+  margin: auto;
+  margin-top: 9rem;
+  margin-bottom: 3.8rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 16rem;
+  justify-content: space-around;
+  color: aliceblue; 
+  border-radius: 10%;
+}
