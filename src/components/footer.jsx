@@ -3,7 +3,7 @@ import React from 'react'
 export default function Footer(){
   return(
     <footer>
-    <div class="social-icons">
+    <div className="social-icons">
        
     <a href="https://github.com/KaifArslan">
       <i class="fab fa-github"></i>
