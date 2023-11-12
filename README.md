@@ -33,17 +33,6 @@ This is a dummy shopping site project built with React. It is a basic e-commerce
 ![Shopping Site Cart](shoppingSiteCart.png)
 *Screenshot of the Shopping Site Cart*
 
-## Setup
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-  git clone https://github.com/your-username/dummy-shopping-site.git
-  cd dummy-shopping-site
-
-2. Install dependencies by typing 'npm install' in the terminal. (make sure you have npm installed)
-
-
 ## Usage
 
 Start the development server:
